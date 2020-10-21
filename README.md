@@ -1,7 +1,7 @@
 This is MarioPlan !
 
 To begin, you need to signup:
-![](src/images/signup.png)
+![](src/images/Signup.png)
 
 Then, you can access the dashboard
 ![](src/images/dashboard.png)
